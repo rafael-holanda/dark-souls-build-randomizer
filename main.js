@@ -38,5 +38,8 @@ function newBuild(){
   document.getElementById("main-equip").innerHTML = `${mainEquipGen()}`;
   document.getElementById("magic-equip").innerHTML = `${magicEquipGen()}`;
   document.getElementById("armor-type").innerHTML = `${armorTypeGen()}`;
+}
+
+function luckyFighter(){
   document.getElementById("dragon-fighter").innerHTML = `${dragonFighterGen()}`;
 }
