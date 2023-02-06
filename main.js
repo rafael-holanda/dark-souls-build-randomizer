@@ -43,3 +43,9 @@ function newBuild(){
 function luckyFighter(){
   document.getElementById("dragon-fighter").innerHTML = `${dragonFighterGen()}`;
 }
+
+function clearFields(){
+  document.getElementById("main-equip").innerHTML = `-`;
+  document.getElementById("magic-equip").innerHTML = `-`;
+  document.getElementById("armor-type").innerHTML = `-`;
+}
