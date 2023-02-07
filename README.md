@@ -11,7 +11,7 @@
 
 ## Visão Geral
 
-Dark Souls - Build Randomizer é um pequeno programa feito para sortear builds aleatórias para um personagem no Dark Souls, a partir de três atributos: 
+Dark Souls - Build Randomizer é um pequeno programa feito para sortear builds aleatórias para um personagem no Dark Souls II, a partir de três atributos: 
 
 1. Equipamento Principal: Consiste nas armas de corpo a corpo do jogo, que possuem escalas baseadas em dois atributos relacionados ao empunhamento de armas:
 
@@ -30,10 +30,22 @@ Dark Souls - Build Randomizer é um pequeno programa feito para sortear builds a
 
 - Pesada: São armaduras grandes, altamente resistentes e... pesadas. Normalmente se encaixam armaduras como a do Demônio da Fornalha, de Insolente, de Havel, e de Cavaleiro Alonne;
 - Média: São armaduras com alto grau de defesa, e que possuem peso mediano. São as mais comuns no jogo e as mais fáceis de usar. Nessa categoria se encaixam a armadura de Aurous, a de Cavaleiro de Elite, a de Cavaleiro de Heide e a de Alva;
-- Leve: São armaduras e roupas com pouco peso e poucas resistências. Nessa categoria Estão disponíveis a Roupa Importada, a Armadura de Couro, e o Vestido de Bruxa.
+- Leve: São armaduras e roupas com pouco peso e poucas resistências. Nessa categoria estão disponíveis a Roupa Importada, a Armadura de Couro, e o Vestido de Bruxa.
 
 ## Propósito
 
-A ideia para desenvolver esse sorteador surgiu a partir de um desafio que meu amigo e eu criamos enquanto jogávamos Dark Souls II, onde a ideia era chegar até o fim do jogo sem morrer, e caso um dos jogadores morra no jogo, o jogo deve ser reiniciado e com novos personagens. O desafio se torna ainda maior, pois devemos jogar em cooperação e conectados a internet, o que gera o risco de ser invadido por outros jogadores.
+A ideia para desenvolver esse sorteador surgiu a partir de um desafio que meu amigo e eu criamos enquanto jogávamos Dark Souls II, onde a o objetivo era chegar até o fim do jogo sem morrer, e caso um dos jogadores morra no jogo, o jogo deve ser reiniciado e com novos personagens. O desafio se torna ainda maior, pois devemos jogar em cooperação e conectados a internet, o que gera o risco de ser invadido por outros jogadores.
 
-Apesar disso, não seria tão desafiador se usássemos apenas os equipamentos os quais estamos habituados, por isso o sorteador existe, que tem o propósito de gerar equipamentos aleatórios que, dependendo da composição do equipamento sorteado, pode diminuir ou elevar a dificuldade do desafio. Fora isso, o sorteador permite aos jogadores descobrirem novos equipamentos ou táticas, o que ajuda na versatilidade.
+No entanto, não seria tão desafiador se pudéssemos usar apenas os equipamentos os quais estávamos habituados, por isso o sorteador existe, que tem o propósito de gerar equipamentos aleatórios que, dependendo da composição do equipamento sorteado, pode diminuir ou elevar a dificuldade do desafio. Fora isso, o sorteador permite aos desafiantes descobrirem novos equipamentos ou táticas, o que ajuda na versatilidade.
+
+Tanto o desafio quanto esse sorteador foram feitos pensados no Dark Souls II, no entanto é possível também utilizá-lo normalmente no Dark Souls I e III, ou até mesmo adaptá-lo facilmente para utilizar em outros jogos "Souls-Like".
+
+## Processo
+
+Este sorteador foi feito utilizando as tecnologias HTML, CSS e JavaScript. A interface de usuário dele foi feita pensada tanto na interface do Dark Souls II quanto a dessa [modificação](https://www.nexusmods.com/darksouls2/mods/119) feita para o mesmo jogo, no entanto, com um estilo mais minimalista e limpo.
+
+Este sorteador está pronto, atendendo ao objetivo designado. No entanto, alguns recursos podem ser adicionados futuramente, como um sorteador de equipamentos específicos, seletor de desafios, etc.
+
+## Autor
+
+- Twitter - [@rafinholanda](https://twitter.com/rafinholanda)
