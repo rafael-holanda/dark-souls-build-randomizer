@@ -1,6 +1,6 @@
 # Dark Souls - Build Randomizer
 
-> Um gerador simples de builds para Dark Souls
+> Um gerador simples de equipamentos para Dark Souls
 
 ## Índice
 
@@ -11,7 +11,7 @@
 
 ## Visão Geral
 
-Dark Souls - Build Randomizer é um pequeno programa feito para sortear builds aleatórias para um personagem no Dark Souls II, a partir de três atributos: 
+Dark Souls - Build Randomizer é um pequeno programa feito para sortear equipamentos aleatórios para um personagem no Dark Souls II, a partir de três parâmetros: 
 
 1. Equipamento Principal: Consiste nas armas de corpo a corpo do jogo, que possuem escalas baseadas em dois atributos relacionados ao empunhamento de armas:
 
@@ -36,9 +36,9 @@ Dark Souls - Build Randomizer é um pequeno programa feito para sortear builds a
 
 A ideia para desenvolver esse sorteador surgiu a partir de um desafio que meu amigo e eu criamos enquanto jogávamos Dark Souls II, onde a o objetivo era chegar até o fim do jogo sem morrer, e caso um dos jogadores morra no jogo, o jogo deve ser reiniciado e com novos personagens. O desafio se torna ainda maior, pois devemos jogar em cooperação e conectados a internet, o que gera o risco de ser invadido por outros jogadores.
 
-No entanto, não seria tão desafiador se pudéssemos usar apenas os equipamentos os quais estávamos habituados, por isso o sorteador existe, que tem o propósito de gerar equipamentos aleatórios que, dependendo da composição do equipamento sorteado, pode diminuir ou elevar a dificuldade do desafio. Fora isso, o sorteador permite aos desafiantes descobrirem novos equipamentos ou táticas, o que ajuda na versatilidade.
+No entanto, não seria tão desafiador se pudéssemos usar apenas os equipamentos os quais estávamos habituados, por isso o sorteador existe, que tem o propósito de rapidamente gerar equipamentos aleatórios que, dependendo da composição do equipamento sorteado, pode diminuir ou elevar a dificuldade do desafio. Fora isso, o sorteador permite aos desafiantes descobrirem novos equipamentos ou táticas, o que ajuda na versatilidade.
 
-Tanto o desafio quanto esse sorteador foram feitos pensados no Dark Souls II, no entanto é possível também utilizá-lo normalmente no Dark Souls I e III, ou até mesmo adaptá-lo facilmente para utilizar em outros jogos "Souls-Like".
+Tanto o desafio quanto esse sorteador foram feitos pensados no jogo Dark Souls II, no entanto é possível também utilizá-lo normalmente no Dark Souls I e III, ou até mesmo adaptá-lo facilmente para utilizar em outros jogos.
 
 ## Processo
 
