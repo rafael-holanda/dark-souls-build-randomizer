@@ -11,8 +11,7 @@ function magicEquipGen(){
   const magicEquip = [
     "Feiticeiro (INT)",
     "Clérigo (FTH)",
-    "Piromante (INT e/ou FTH)",
-    // "Bruxo (INT e FTH)"
+    "Piromante (INT e/ou FTH)"
   ];
   return magicEquip[Math.floor(Math.random() * 4)];
 }
